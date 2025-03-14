@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #fff8f8;
+    background-color: #110101;
 }
 
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(24, 9, 155, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
